@@ -246,7 +246,7 @@ window.onload = function() {
         var chat_content_container = document.getElementById('chat_content_container')
   
         // Get the chats from firebase
-        // on = realtimea
+        // on = realtime
         db.ref('chats/').on('value', function(messages_object) {
           // When we get the data clear chat_content_container
           chat_content_container.innerHTML = ''
