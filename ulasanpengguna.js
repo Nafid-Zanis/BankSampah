@@ -3,12 +3,12 @@
 window.onload = function() {
    // Your web app's Firebase configuration
     const firebaseConfig = {
-        apiKey: "AIzaSyAtZKl9DdyjbInD183V71HDT8ujbmVf8gY",
-        authDomain: "ulasanpengguna-b6c6b.firebaseapp.com",
-        projectId: "ulasanpengguna-b6c6b",
-        storageBucket: "ulasanpengguna-b6c6b.appspot.com",
-        messagingSenderId: "834144960076",
-        appId: "1:834144960076:web:9d5add61589959ec04bee9"
+  apiKey: "AIzaSyBcnvDahuH2i5kjw1koVJjF7ukEagA89hk",
+  authDomain: "ulasan-65698.firebaseapp.com",
+  projectId: "ulasan-65698",
+  storageBucket: "ulasan-65698.firebasestorage.app",
+  messagingSenderId: "1092132121100",
+  appId: "1:1092132121100:web:722e471d07cd5e21da1c29"
     };
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
